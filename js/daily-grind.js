@@ -40,7 +40,7 @@ if(urlParams.has("day")){//from querystring
     today = urlParams.get("day");
  } 
 
- today = parseInt(today);
+today = parseInt(today);
  
  //console.log(today);
 
